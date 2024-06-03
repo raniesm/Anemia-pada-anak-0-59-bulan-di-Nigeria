@@ -19,5 +19,7 @@ Dari analisis yang dilakukan, disimpulkan bahwa faktor-faktor seperti kekayaan r
 # Referensi Data
 Data diperoleh dari Nigeria Demographic and Health Surveys (NDHS) 2018.
  
-## Link Kaggle : https://www.kaggle.com/datasets/adeolaadesina/factors-affecting-children-anemia-level
-## Link Dashboard : https://public.tableau.com/shared/92P6B5JCX?:display_count=n&:origin=viz_share_link 
+## Link Kaggle 
+https://www.kaggle.com/datasets/adeolaadesina/factors-affecting-children-anemia-level
+## Link Dashboard
+https://public.tableau.com/shared/92P6B5JCX?:display_count=n&:origin=viz_share_link 
